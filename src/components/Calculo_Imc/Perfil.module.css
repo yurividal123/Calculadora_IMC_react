@@ -1,0 +1,38 @@
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(114, 37, 37);
+    color: #fff;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+}
+
+.imc {
+    display: flex;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 16px;
+    gap: 15px;
+    text-align: center;
+}
+
+.fonte {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.input {
+    padding: 6px;
+    text-align: center;
+}
+
+.table td {
+    padding: 0 12px;
+}
